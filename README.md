@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @flowerswapdex a dex aggregator in Fantom Go-Opera
+- 👋 Hi, I’m @flowerswapdex a single dex in Fantom Go-Opera
 - 👀 I’m interested in being transparent to the crypto community
 - 🌱 I’m currently learning how to multichain assets
 - 💞️ I’m looking to collaborate on Fantom developments
